@@ -80,16 +80,34 @@
 }
 
 .principal-container-five {
+  display: flex;
+  padding: 40px;
+  background-color: lightgrey;
+}
+
+.five-container {
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+  height: 400px;
+  border: 2px dashed black;
+  background-color: green;
+}
+.principal-container-six {
     display: flex;
     padding: 40px;
-    background-color: lightgrey;
+    background-color:rgb(57, 57, 57);
   }
   
-  .five-container {
+  .six-container {
     width: 100%;
     text-align: center;
     margin: 0 auto;
-    height: 400px;
+    height: 300px;
     border: 2px dashed black;
-    background-color:green;
+    background-color: rgb(3, 130, 193);
+  }
+  .one{
+    background-color: red;
+    flex-grow: 2;
   }
