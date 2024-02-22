@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ .principal-container{
+    width: 400px;
+    margin: 0 auto;
+    
+    
+ }
+  .header-container{
+   
+    height: 20px;
+    background-color: yellow;
+    border: 1px solid black;
+    border: dashed;
+    text-align: center;
+
+
+  }
